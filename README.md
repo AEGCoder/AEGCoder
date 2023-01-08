@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aegcoder&label=Profile%20views&color=0e75b6&style=flat" alt="aegcoder" /> </p>
 
-- 🔭 I’m currently working on [https://reactjs.org/](https://reactjs.org/)
-
 - 🌱 I’m currently learning **React / Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AEGCoder](https://github.com/AEGCoder)
